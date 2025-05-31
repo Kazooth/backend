@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-librosa
-numpy
-scipy
-soundfile
-noisereduce
-python-multipart
